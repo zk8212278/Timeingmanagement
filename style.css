@@ -1,0 +1,23 @@
+*{
+    background-color: rgb(192, 214, 67);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+.main{
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: blanchedalmond;
+    border-radius: 40px;
+}
+p{
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
